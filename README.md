@@ -1,13 +1,7 @@
 ### Hi there 👋
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
 
-<a href="https://www.linkedin.com/in/bipulkrsingh/" target="blank"><img align="center" src="https://img.shields.io/badge/-BipulKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/bipulkrsingh/" /></a>
 
-<a href="mailto:bipulsinghkashyap@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bipulsinghkashyap@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="bipulsinghkashyap@gmail.com" /></a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
