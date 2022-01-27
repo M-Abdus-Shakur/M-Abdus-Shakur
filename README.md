@@ -9,13 +9,9 @@
 
 - 🤝 I’m looking for help with **Everyone Who Can Help me.**
 
-- 👨‍💻 All of my projects are availabl aet [On My Github Repositories](On My Github Repositories)
-
-- 📝 I regularly write articles on [Nothing..](Nothing..)
-
 - 💬 Ask me about **Everything Which You Want to ask me. If I know, then I will try to help you by my best**
 
-- 📄 Know about my experiences [No Experience , For That I Am 😥](No Experience , For That I Am 😥)
+- 📄 Know about my experiences **Every moment in my life I am acquiring New New Experience**
 
 - ⚡ Fun fact **I Change My Skills Like a Chameleons**
 
