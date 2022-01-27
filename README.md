@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm M Abdus Shakur</h1>
 <h3 align="center">I Want To learn Every Tech Concept. 😀</h3>
 
-- 🔭 I’m currently working on **In Which I Like to Work.**
+- 🔭 I’m currently working on : **In Which I Like to Work.**
 
-- 🌱 I’m currently learning **That I Need to learn currently.**
+- 🌱 I’m currently learning : **That I Need to learn currently.**
 
-- 👯 I’m looking to collaborate on **Depends on My Current Mind Situation.**
+- 👯 I’m looking to collaborate on : **Depends on My Current Mind Situation.**
 
-- 🤝 I’m looking for help with **Everyone Who Can Help me.**
+- 🤝 I’m looking for help with : **Everyone Who Can Help me.**
 
-- 💬 Ask me about **Everything Which You Want to ask me. If I know, then I will try to help you by my best**
+- 💬 Ask me about : **Everything Which You Want to ask me. If I know, then I will try to help you by my best**
 
-- 📄 Know about my experiences **Every moment in my life I am acquiring New New Experience**
+- 📄 Know about my experiences : **Every moment in my life I am acquiring New New Experience**
 
-- ⚡ Fun fact **I Change My Skills Like a Chameleons**
+- ⚡ Fun fact : **I Change My Skills Like a Chameleons**
 
 ---
 
