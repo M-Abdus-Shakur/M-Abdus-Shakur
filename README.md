@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning : **That I Need to learn currently.**
 
-- 👯 I’m looking to collaborate on : **Depends on My Current Mind Situation.**
+- 👯 I’m looking to collaborate With : **Depends on My Current Mind Situation.**
 
-- 🤝 I’m looking for help with : **Everyone Who Can Help me.**
+- 🤝 I’m looking for help with : **Everyone Who Want To Help me.**
 
-- 💬 Ask me about : **Everything Which You Want to ask me. If I know, then I will try to help you by my best**
+- 💬 Ask me about : **Everything Which You Want to Know. If I know, then I will try to help you with my best**
 
 - 📄 Know about my experiences : **Every moment in my life I am acquiring New New Experience**
 
