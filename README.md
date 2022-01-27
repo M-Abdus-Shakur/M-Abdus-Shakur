@@ -1,6 +1,8 @@
 ---
-<h1 align="center">Hi 👋, I'm M Abdus Shakur</h1>
----
+<h1 align="center">Hi 👋, 
+  I'm M Abdus Shakur
+</h1>
+
 <h3 align="center">I Want To learn Every Tech Concept. 😀</h3>
 
 - 🔭 I’m currently working on : **In Which I Like to Work.**
