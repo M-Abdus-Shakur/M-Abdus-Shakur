@@ -1,6 +1,5 @@
-[![Hi 👋, I'm M Abdus Shakur, And Learning Is My Passion ❤️ ](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Learning%20Is%20My%20Passion%20%E2%9D%A4%EF%B8%8F%20&title=Hi%20%F0%9F%91%8B%2C%20I%27m%20M%20Abdus%20Shakur)](https://pimp-my-readme.webapp.io)
+<h3 align="center">Hi 👋, I'm M Abdus Shakur, And Learning Is My Passion ❤️</h3>
 <h3 align="center">I Want To learn Every Tech Concept. 😀</h3>
-
 - 🔭 I’m currently working on **In Which I Like to Work.**
 
 - 🌱 I’m currently learning **That I Need to learn currently.**
