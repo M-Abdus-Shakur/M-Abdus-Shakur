@@ -31,7 +31,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".Net" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJs" width="50" height="50"/>
 
 ---
 
