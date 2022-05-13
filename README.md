@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-abdus-shakur&show_icons=true&locale=en" alt="m-abdus-shakur" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdus-shakur&show_icons=true&locale=en&layout=compact" alt="m-abdus-shakur" /></p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdus-Shakur&show_icons=true&theme=radical)
